@@ -1,0 +1,8 @@
+win64	Windows 64-bit
+win64-msi	Windows 64-bit MSI
+win64-aarch64	Windows ARM64/AArch64
+win	Windows 32-bit
+win-msi	Windows 32-bit MSI
+osx	macOS
+linux64	Linux 64-bit
+linux	Linux 32-bit
