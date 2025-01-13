@@ -1,0 +1,8 @@
+<li><a href="/en-US/firefox/all/desktop-release/win64/">Windows 64-bit</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/win64-msi/">Windows 64-bit MSI</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/win64-aarch64/">Windows ARM64/AArch64</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/win/">Windows 32-bit</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/win-msi/">Windows 32-bit MSI</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/osx/">macOS</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/linux64/">Linux 64-bit</a></li>
+<li><a href="/en-US/firefox/all/desktop-release/linux/">Linux 32-bit</a></li>

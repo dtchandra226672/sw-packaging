@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>firefox-msi</id>
+    <version>131.0.2</version>
+    <owners>dtchandra</owners>
+    <title>Mozilla Firefox (Install)</title>
+    <authors>Mozilla Foundation</authors>
+    <projectUrl>https://www.mozilla.org/en-GB/firefox/</projectUrl>
+    <tags>browser mozilla firefox oss</tags>
+    <summary>Firefox is a web-browser developed by Mozilla</summary>
+    <description>Firefox Browser installed by dtchandra</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

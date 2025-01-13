@@ -1,0 +1,20 @@
+Microsoft Edge Update History
+Last Update
+	2025-01-13
+Latest Version Number
+	130.0.2849.142
+Major Release
+	130.0
+Minor Release 
+	2849
+BugFix Release
+	142
+Comment
+	Bug Fix Release Available!
+
+History Logs...
+2025-01-13	Bug Fix Release from 130.0.2849.56 to 130.0.2849.142
+2024-10-31	Committed Update Check! No Available Update from 130.0.2849.56
+2024-10-30	Committed Update Check! No Available Update from 130.0.2849.56
+2024-10-29	Committed Update Check! No Available Update from 130.0.2849.56
+2024-10-28	Committed Update Check! No Available Update from 130.0.2849.56
